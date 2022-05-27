@@ -1,1 +1,1 @@
-# dicegamegithub.io
+# SIMPLE DICE GAME
